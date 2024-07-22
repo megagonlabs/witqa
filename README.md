@@ -15,7 +15,7 @@ This repository is the codebase of our paper "Retrieval Helps or Hurts? A Deeper
       year = "2024",
       booktitle= "Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics",
       publisher = "Association for Computational Linguistics",
-      url = "https://arxiv.org/abs/2402.13492",
+      url = "https://aclanthology.org/2024.naacl-long.308/",
 }
 ```
 
